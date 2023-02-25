@@ -1,0 +1,41 @@
+{
+  "name": "vajra-api",
+  "version": "1.0.0",
+  "description": "This module allows you to manipulate or generate random images.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eximinati/vajra-api.git"
+  },
+  "keywords": [
+    "random",
+    "animal",
+    "anime",
+    "nsfw",
+    "discord",
+    "discord bot",
+    "bot",
+    "overlay",
+    "filter",
+    "image manipulation",
+    "random images",
+    "api",
+    "generate",
+    "manipulation"
+  ],
+  "author": "PannH",
+  "license": "ISC",
+  "dependencies": {
+    "image-url-validator": "^1.0.4",
+    "is-hexcolor": "^1.0.0",
+    "node-fetch": "^2.6.9"
+  },
+  "bugs": {
+    "url": "https://github.com/Eximinati/vajra-api/issues"
+  },
+  "homepage": "https://github.com/Eximinati/vajra-api#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
